@@ -1,0 +1,8 @@
+requests[socks]
+beautifulsoup4
+colorama
+stem
+selenium
+aiohttp
+asyncio
+tenacity
